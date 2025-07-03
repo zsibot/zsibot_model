@@ -1,7 +1,7 @@
 # ZsiBot URDF Models
 
 [![License: BSD‑3-Clause](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](LICENSE)  
-> 📄 **中文版本**：[README_CN.md](./README_CN.md)
+> 📄 [中文版本](./README_CN.md)
 
 ## Overview
 
@@ -16,5 +16,5 @@ zsibot_model/
 ├── README.md
 ├── README_CN.md
 └── zsl-1/
-    ├── urdf/            # URDF definitions (e.g. DOG.urdf, DOG.xacro)
-    └── meshes/          # STL mesh files for each link
+    ├── urdf/            
+    └── meshes/          
